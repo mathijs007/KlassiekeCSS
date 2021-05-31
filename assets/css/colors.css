@@ -1,0 +1,19 @@
+header, footer, a:hover, .icon, input[type="submit"] {
+    background-color: black;
+    color: white;
+}
+
+main, a, input[type="submit"]:hover
+{
+    background-color: white;
+    color: black;
+}
+
+a {
+    border: 1px solid black;
+}
+
+a:hover
+{
+    border: 1px solid white;
+}
